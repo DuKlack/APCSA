@@ -1,0 +1,14 @@
+public class TomatoEssay
+{
+    public static void main(String[] args)
+    {
+        // Start here!
+        System.out.print("Is a tomato a fruit or a vegetable?");
+        System.out.print("\nWhile biologically speaking a tomato");
+        System.out.print(" is a fruit, legally speaking it is a vegetable!");
+        System.out.print("\nIn Supreme Court Case Nix v. Hedden, the Court");
+        System.out.print(" ruled that tomatoes should be classified as a vegetable under U.S Customs regulations because they are consumed more like a vegetable than a fruit, and should be taxed as such.");
+        System.out.print("\nWhen tomatoes are shipped into the U.S,");
+        System.out.print(" they are now taxed as vegetables even though their anatomy suggests otherwise.");
+    }
+}
