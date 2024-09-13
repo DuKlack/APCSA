@@ -1,0 +1,12 @@
+public class FallingBodies
+{
+    public static void main(String[] args)
+    {
+        double height= 9.8*23*23*0.5;
+        double velocity= 23*9.8;
+        System.out.println("The height of the cliff is"+height);
+        System.out.println("The velocity of the cliff is"+velocity);
+        
+    }  
+    
+}
